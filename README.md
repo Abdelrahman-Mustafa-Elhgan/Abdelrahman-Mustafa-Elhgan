@@ -6,9 +6,9 @@
 
 <p><strong>High school student & C++ programmer</strong></p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![X](@Abdalrahmanhgan)
+![Linkedin](www.linkedin.com/in/abdelrahman-mustafa-elhgan)
+![Gmail](abdalrahmanelmustafa@gmail.com)
 
 <p>
   🌍 Based in Egypt
