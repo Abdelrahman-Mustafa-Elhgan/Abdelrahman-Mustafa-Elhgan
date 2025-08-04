@@ -14,6 +14,13 @@
 <p>
   🌍 Based in Egypt
 </p>
+
+<p>
+<a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a> • 
+<a href="https://x.com/your-handle" target="_blank">X (Twitter)</a> • 
+<a href="mailto:your.email@example.com">Email</a>
+</p>
+
 <p><em>"Building my future one line of code at a time."</em></p>
 
 </div>
