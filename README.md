@@ -18,7 +18,7 @@ I'm a **C++ Enthusiast** and Student passionate about **high-performance softwar
 |-------------------|-------------------------------------|
 | **Languages**     | C++ (// || // || //)                |
 | **Libraries**     | // // //                            |
-| **Tools**         | Git,Visual Studio Code, VScode      |
+| **Tools**         | Git, Visual Studio Code , VScode    |
 | **Concepts**      | // // // //                         |
 
 ---
