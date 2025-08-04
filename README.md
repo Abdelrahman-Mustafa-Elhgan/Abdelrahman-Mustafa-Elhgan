@@ -27,9 +27,9 @@ I'm a **C++ Enthusiast** and Student passionate about **high-performance softwar
 
 | Project                         | Description                                           | Link                                             |
 |---------------------------------|-------------------------------------------------------|--------------------------------------------------|
-| **ATM Machine Simulator**       | Console-based ATM simulation using classes and files. | [atm-simulator](./atm-simulator)                 |
-| **Restaurant Management System**| Simple POS and order management in C++                | [resto-system](./resto-system)                   |
-| **C++ Quick Reminder Series**   | Daily micro-posts with tips on C++ for beginners      | [cpp-quick-reminder](./cpp-quick-reminder)       |
+| **ATM Machine Simulator**       | Console-based ATM simulation using classes and files. | [atm-simulator]([./atm-simulator](https://github.com/Abdelrahman-Mustafa-Elhgan/SimpleBankSystem))         |
+| **Restaurant Management System**| Simple POS and order management in C++                | [resto-system]([./resto-system](https://github.com/Abdelrahman-Mustafa-Elhgan/MyRestaurant))             |
+| **C++ Quick Reminder Series**   | Daily micro-posts with tips on C++ for beginners      | [cpp-quick-reminder]([./cpp-quick-reminder](https://x.com/abdelrahmanhgan/status/1947360236790026478)) |
 
 ---
 
