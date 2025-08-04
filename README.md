@@ -64,7 +64,10 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+<div align="center">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mustafa-Elhgan&show_icons=true&theme=tokyonight" />
+</div>
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman-Mustafa-Elhgan&theme=github_dark)
 
