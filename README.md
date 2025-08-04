@@ -6,19 +6,19 @@
 
 <p><strong>High school student & C++ programmer</strong></p>
 
-![X](@Abdalrahmanhgan)
-![Linkedin](www.linkedin.com/in/abdelrahman-mustafa-elhgan)
-![Gmail](abdalrahmanelmustafa@gmail.com)
+<p>
+🎓 I'm a high school student from Egypt who is passionate about technology and problem-solving.<br>
+💻 I'm currently learning C++ and building small, practical projects to strengthen my skills.<br>
+📈 I believe in continuous growth through code, curiosity, and consistency.
+</p>
 
 <p>
   🌍 Based in Egypt
 </p>
 
-<p>
-<a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a> • 
-<a href="https://x.com/your-handle" target="_blank">X (Twitter)</a> • 
-<a href="mailto:your.email@example.com">Email</a>
-</p>
+![X](@Abdalrahmanhgan)
+![Linkedin](www.linkedin.com/in/abdelrahman-mustafa-elhgan)
+![Gmail](abdalrahmanelmustafa@gmail.com)
 
 <p><em>"Building my future one line of code at a time."</em></p>
 
