@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>👋 Hey, I'm Abdelrahman Mostafa</h1>
+<h1>👋 Hey, I'm Abdelrahman Mustafa Elhgan</h1>
 
 <p><strong>High school student & C++ programmer</strong></p>
 
@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm **Abdelrahman Mostafa**, a high school student from Egypt.
+- 🎓 I'm **Abdelrahman  Mustafa Elhgan**, a high school student from Egypt.
 - 👨‍💻 Passionate about learning **C++** and real-world programming.
 - 🧠 Currently focusing on problem-solving, understanding how C++ works, and building real projects.
 - 💡 I believe in learning by doing — one step at a time.
