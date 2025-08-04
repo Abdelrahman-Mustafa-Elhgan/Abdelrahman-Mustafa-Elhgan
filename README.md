@@ -12,7 +12,6 @@
 </p>
 
 <p>
-  🛠️ Tools: <code>C++</code> · <code>Git</code> · <code>Linux</code> · <code>VS Code</code> · <code>Cursor</code> <br>
   🌍 Based in Egypt
 </p>
 <p><em>"Building my future one line of code at a time."</em></p>
