@@ -1,10 +1,15 @@
 # 👋 Welcome to My GitHub!
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
-  <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at Work" />
+
+<h2>Hey there 👋 I'm Abdelrahman Mostafa</h2>
+<p>High school student & aspiring C++ developer</p>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" width="100" alt="Laptop working" />
+<br>
+<p><em>"Building my future one line of code at a time."</em></p>
+
 </div>
+
 
 ---
 
