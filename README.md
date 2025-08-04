@@ -4,12 +4,11 @@
 
 <h1>👋 Hey, I'm Abdelrahman Mustafa Elhgan</h1>
 
-<p><strong>High school student & C++ programmer</strong></p>
+<p><strong>High school student & self-taught C++ programmer</strong></p>
 
 <p>
-🎓 I'm a high school student from Egypt who is passionate about technology and problem-solving.<br>
-💻 I'm currently learning C++ and building small, practical projects to strengthen my skills.<br>
-📈 I believe in continuous growth through code, curiosity, and consistency.
+  Passionate about building real-world software, solving problems,<br>
+  and growing every day as a developer.
 </p>
 
 <p>
