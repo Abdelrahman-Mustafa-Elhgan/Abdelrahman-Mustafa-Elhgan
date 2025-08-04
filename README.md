@@ -2,13 +2,23 @@
 
 <div align="center">
 
-<h2>Hey there 👋 I'm Abdelrahman Mostafa</h2>
-<p>High school student & aspiring C++ developer</p>
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" width="100" alt="Laptop working" />
-<br>
+<h1>👋 Hey, I'm Abdelrahman Mostafa</h1>
+
+<p><strong>High school student & self-taught C++ programmer</strong></p>
+
+<p>
+  Passionate about building real-world software, solving problems,<br>
+  and growing every day as a developer.
+</p>
+
+<p>
+  🛠️ Tools: <code>C++</code> · <code>Git</code> · <code>Linux</code> · <code>VS Code</code> · <code>Cursor</code> <br>
+  🌍 Based in Egypt
+</p>
 <p><em>"Building my future one line of code at a time."</em></p>
 
 </div>
+
 
 
 ---
