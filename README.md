@@ -4,7 +4,7 @@
 
 <h1>👋 Hey, I'm Abdelrahman Mostafa</h1>
 
-<p><strong>High school student & self-taught C++ programmer</strong></p>
+<p><strong>High school student & C++ programmer</strong></p>
 
 <p>
   Passionate about building real-world software, solving problems,<br>
