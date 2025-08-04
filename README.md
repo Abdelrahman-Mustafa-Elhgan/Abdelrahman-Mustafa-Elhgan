@@ -1,4 +1,4 @@
-# 👋 أهلاً بيك في عالمي البرمجي!
+# 👋 Welcome to My GitHub!
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
@@ -8,59 +8,54 @@
 
 ---
 
-## 🙋‍♂️ من أنا؟
+## 🙋‍♂️ About Me
 
-- ✍️ أنا **عبدالرحمن مصطفى**
-- 🎓 طالب في **المرحلة الثانوية العامة**
-- 👨‍💻 مهتم بتعلم **البرمجة بلغة C++**
-- 🚀 شغوف ببناء مشاريع واقعية باستخدام الكود
-- 📚 حالياً أتعلم أساسيات البرمجة + الخوارزميات + بناء مشاريع حقيقية بلغة C++
+- 🎓 I'm **Abdelrahman Mostafa**, a high school student from Egypt.
+- 👨‍💻 Passionate about learning **C++** and real-world programming.
+- 🧠 Currently focusing on problem-solving, understanding how C++ works, and building real projects.
+- 💡 I believe in learning by doing — one step at a time.
 
 ---
 
-## 💻 المهارات والأدوات اللي بستخدمها:
+## 💻 Tools I Use
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 إحصائيات حسابي
+## 📚 Currently Learning
+
+- Deep C++ basics (loops, arrays, memory, pointers, etc.)
+- Git version control and using GitHub
+- Linux terminal and development workflow
+- Solving real coding problems using logic
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Mustafa-Elhgan&style=flat&color=orange&label=PROFILE+VIEWS" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mustafa-Elhgan&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Mustafa-Elhgan&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 🌱 حالياً أتعلم
+## 📬 Contact Me
 
-- كتابة كود نظيف وقابل للتوسعة
-- فهم البنية الداخلية لـ C++ (الذاكرة، المؤشرات، الLoops، وغيرها)
-- بناء مشاريع زي: آلة ATM، إدارة مطعم، برامج خفيفة
-
----
-
-## 🤝 تواصل معايا
-
-- 📬 تيليجرام: [@عبدالرحمن](https://t.me/username)
-- 🧠 بحب أشارك رحلتي البرمجية على GitHub و X (تويتر)
-- 📫 قريبًا هضيف مشاريع مفتوحة المصدر هنا 🔥
+- Telegram: [Add your username here if you'd like]
+- I'm open to learning, connecting, and growing with the developer community.
 
 ---
 
 <div align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png?raw=true" width="10%">
   <br>
-  <strong>بكتب كود... وبستمتع بالتعلم كل يوم!</strong>
+  <strong>Learning to code, one day at a time 🚀</strong>
 </div>
 
