@@ -16,9 +16,15 @@
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/abdelrahman-mustafa-elhgan" target="_blank">LinkedIn</a> • 
-<a href="https://x.com/Abdalrahmanhgan" target="_blank">X (Twitter)</a> • 
-<a href="abdalrahmanelmustafa@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/abdelrahman-mustafa-elhgan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/Abdalrahmanhgan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
 
 <p><em>"Building my future one line of code at a time."</em></p>
