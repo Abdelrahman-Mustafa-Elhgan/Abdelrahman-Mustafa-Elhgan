@@ -66,7 +66,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Mustafa-Elhgan&style=flat&color=orange&label=PROFILE+VIEWS" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mustafa-Elhgan&show_icons=true&theme=tokyonight" />
 </div>
