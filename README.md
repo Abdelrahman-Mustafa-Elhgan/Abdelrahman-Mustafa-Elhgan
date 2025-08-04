@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>👋 Hey, I'm Abdelrahman Mustafa Elhgan</h1>
+<h1> Hey, I'm Abdelrahman Mustafa Elhgan</h1>
 
 <p><strong>High school student & C++ programmer</strong></p>
 
