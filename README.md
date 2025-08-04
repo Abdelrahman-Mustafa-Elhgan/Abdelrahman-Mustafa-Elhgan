@@ -6,10 +6,9 @@
 
 <p><strong>High school student & C++ programmer</strong></p>
 
-<p>
-  Passionate about building real-world software, solving problems,<br>
-  and growing every day as a developer.
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <p>
   🌍 Based in Egypt
