@@ -16,9 +16,11 @@
   🌍 Based in Egypt
 </p>
 
-![X](@Abdalrahmanhgan)
-![Linkedin](www.linkedin.com/in/abdelrahman-mustafa-elhgan)
-![Gmail](abdalrahmanelmustafa@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/abdelrahman-mustafa-elhgan" target="_blank">LinkedIn</a> • 
+<a href="https://x.com/Abdalrahmanhgan" target="_blank">X (Twitter)</a> • 
+<a href="mailto:your.email@example.com">Email</a>
+</p>
 
 <p><em>"Building my future one line of code at a time."</em></p>
 
