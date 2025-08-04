@@ -64,14 +64,18 @@
 ---
 
 ## 📊 GitHub Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mustafa-Elhgan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Mustafa-Elhgan&layout=compact&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman-Mustafa-Elhgan&theme=github_dark)
+<!-- الإحصائيات الأساسية -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mustafa-Elhgan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Mustafa-Elhgan&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman-Mustafa-Elhgan&theme=github-dark&hide_border=true)
+<!-- الإحصائيات المتقدمة -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman-Mustafa-Elhgan&theme=github_dark" width="96%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman-Mustafa-Elhgan&theme=github-dark&hide_border=true" width="96%" />
+
+</div>
 
 
 ---
