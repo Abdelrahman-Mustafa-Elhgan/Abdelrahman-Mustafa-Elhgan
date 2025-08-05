@@ -44,7 +44,7 @@
 
 ---
 
-## 💻 Tools I Use
+## 💡 Technologies & Tools
 
 <div align="center">
   
