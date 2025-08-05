@@ -22,7 +22,7 @@
   <a href="https://x.com/Abdalrahmanhgan" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abdalrahmanelmustafa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
