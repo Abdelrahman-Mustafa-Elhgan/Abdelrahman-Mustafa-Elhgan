@@ -37,10 +37,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm **Abdelrahman  Mustafa Elhgan**, a high school student from Egypt.
-- 👨‍💻 Passionate about learning **C++** and real-world programming.
-- 🧠 Currently focusing on problem-solving, understanding how C++ works, and building real projects.
-- 💡 I believe in learning by doing — one step at a time.
+- 🎓 I'm **Abdelrahman Mustafa Elhgan**, a high school student from Egypt with a growing passion for technology.
+- 🌐 I started out in Web Front-End development and built a solid foundation in HTML, CSS, JavaScript, Bootstrap, and Sass.
+- 👨‍💻 Currently focused on mastering **C++** and building real-world projects to strengthen my problem-solving skills.
+- 🧠 I'm deeply curious about how things work under the hood — especially in C++ — and love tackling logical challenges.
+- 💡 I believe in learning by doing, growing step by step through code, consistency, and curiosity.
+
 
 ---
 
