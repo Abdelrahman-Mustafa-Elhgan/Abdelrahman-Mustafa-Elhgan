@@ -50,7 +50,7 @@
 
 <div align="center">
   
-![C++]([https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white](https://cplusplus.com/#google_vignette))
+![C++]([[https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white](https://cplusplus.com/#google_vignette)](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white))
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
