@@ -89,7 +89,6 @@
 ## 📬 Contact Me
 
 - Telegram: [@abdalrahmanelhgan]
-- WhatsApp: +2 0115 788 8266
 - Email: abdalrahmanelmustafa@gmail.com
 - I'm open to learning, connecting, and growing with the developer community.
 
